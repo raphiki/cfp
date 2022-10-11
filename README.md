@@ -2,6 +2,10 @@
 
 ## Bios
 
+### Accounts
+
+https://conference-hall.io/speaker/profile (connect with GitHub credentials)
+
 ### English, extensive, bullet points
 
 * 23 years experience in IT in several business fields and positions (dev, run, business analyst, project manager, architect, consulting, presales... and now DevRel)
