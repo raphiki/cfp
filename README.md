@@ -4,7 +4,9 @@
 
 ### Accounts
 
-https://conference-hall.io/speaker/profile (connect with GitHub credentials)
+- https://conference-hall.io/speaker/profile (connect with GitHub credentials)
+- https://sessionize.com/app/speaker (Google ID, Edge browser)
+- https://www.papercall.io/me (Edge browser)
 
 ### English, extensive, bullet points
 
